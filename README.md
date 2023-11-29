@@ -28,12 +28,24 @@ Nesta versão inicial, estabeleci apenas o header da página.
 
 ![Versão 1.0.0](image_progress/header-bikecraft.png)
 
+### Versão Atual: 1.0.1
+Nesta versão inicial, estabeleci apenas o header da página.
 
-### Próximos Passos
-Estou constantemente evoluindo este projeto. Os próximos passos incluem:
+![Versão 1.0.1](image_progress/header-responsive.png)
+
+### Versão Atual: 1.0.2
+Nesta versão inicial, estabeleci apenas o header da página.
+
+![Versão 1.0.2](image_progress/main-content.png)
+
+
+### Evolução do Projeto
+Estou constantemente evoluindo este projeto.
 
 - Header.                    (X)
-- Header/Responsivo          ( )
+- Header/Responsivo          (X)
+- Main                       (X)
+- Main/Responsivo            (X)
 
 
 Fique atento para futuras atualizações e melhorias!
