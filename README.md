@@ -29,14 +29,19 @@ Nesta versão inicial, estabeleci apenas o header da página.
 ![Versão 1.0.0](image_progress/header-bikecraft.png)
 
 ### Versão Atual: 1.0.1
-Nesta versão inicial, estabeleci apenas o header da página.
+Nesta versão inicial, header da página vista de um dispositivo mobile.
 
 ![Versão 1.0.1](image_progress/header-responsive.png)
 
 ### Versão Atual: 1.0.2
-Nesta versão inicial, estabeleci apenas o header da página.
+Nesta versão inicial, estabeleci o conteúdo da página.
 
 ![Versão 1.0.2](image_progress/main-content.png)
+
+### Versão Atual: 1.0.3
+Nesta versão inicial, estabeleci o conteúdo da página vista de um dispositivo mobile.
+
+![Versão 1.0.2](image_progress/content-main-responsive.png)
 
 
 ### Evolução do Projeto
