@@ -21,6 +21,8 @@
   padding: 16px 0px;
   color: #fff;
   font-size: 18px;
+  font-family: "Poppins";
+  font-weight: 400;
 }
 
 .header-menu a::after {
