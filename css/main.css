@@ -57,23 +57,6 @@
   background: linear-gradient(#ffb60d, #e59317);
 }
 
-@media (max-width: 1200px) {
-  .introducao h1 {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-  }
-
-  .introducao p {
-    font-size: 1.12rem;
-  }
-}
-
-@media (max-width: 850px) {
-  .introducao h1 {
-    font-size: 2rem;
-  }
-}
-
 @media (max-width: 600px) {
   .introducao {
     grid-template-columns: 1fr;
