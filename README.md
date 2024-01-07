@@ -24,24 +24,30 @@ Este projeto é focado principalmente em HTML e CSS, demonstrando minha habilida
 ## Progresso do Projeto
 
 ### Versão Atual: 1.0.0
-Nesta versão inicial, estabeleci apenas o header da página.
+Nesta versão do projeto, estabeleci apenas o header da página.
 
 ![Versão 1.0.0](image_progress/header-bikecraft.png)
 
 ### Versão Atual: 1.0.1
-Nesta versão inicial, header da página vista de um dispositivo mobile.
+Nesta versão do projeto, header da página vista de um dispositivo mobile.
 
 ![Versão 1.0.1](image_progress/header-responsive.png)
 
 ### Versão Atual: 1.0.2
-Nesta versão inicial, estabeleci o conteúdo da página.
+Nesta versão do projeto, estabeleci o conteúdo da página.
 
 ![Versão 1.0.2](image_progress/main-content.png)
 
 ### Versão Atual: 1.0.3
-Nesta versão inicial, estabeleci o conteúdo da página vista de um dispositivo mobile.
+Nesta versão do projeto, estabeleci o conteúdo da página vista de um dispositivo mobile.
 
 ![Versão 1.0.2](image_progress/content-main-responsive.png)
+
+### Versão Atual: 1.0.4
+Nesta versão do projeto, foi criado a lista de bicicletas que estão disponível.
+
+![Versão 1.0.2](image_progress/bike-list-responsive.png)
+![Versão 1.0.2](image_progress/bike-list.png)
 
 
 ### Evolução do Projeto
@@ -51,6 +57,8 @@ Estou constantemente evoluindo este projeto.
 - Header/Responsivo          (X)
 - Main                       (X)
 - Main/Responsivo            (X)
+- Bike                       (X)
+- Bike/List                  (X)
 
 
 Fique atento para futuras atualizações e melhorias!
