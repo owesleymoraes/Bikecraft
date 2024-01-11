@@ -41,24 +41,32 @@ Nesta versão do projeto, estabeleci o conteúdo da página.
 ### Versão Atual: 1.0.3
 Nesta versão do projeto, estabeleci o conteúdo da página vista de um dispositivo mobile.
 
-![Versão 1.0.2](image_progress/content-main-responsive.png)
+![Versão 1.0.3](image_progress/content-main-responsive.png)
 
 ### Versão Atual: 1.0.4
 Nesta versão do projeto, foi criado a lista de bicicletas que estão disponível.
 
-![Versão 1.0.2](image_progress/bike-list-responsive.png)
-![Versão 1.0.2](image_progress/bike-list.png)
+![Versão 1.0.4](image_progress/bike-list-responsive.png)
+![Versão 1.0.4](image_progress/bike-list.png)
+
+### Versão Atual: 1.0.5
+Nesta versão do projeto, foi criado o conteúdo da página referente à tecnologia das bicicletas.
+
+![Versão 1.0.5](image_progress/tecnologia.png)
+![Versão 1.0.5](image_progress/tecnologia-mobile.png)
 
 
 ### Evolução do Projeto
 Estou constantemente evoluindo este projeto.
 
-- Header.                    (X)
+- Header                     (X)
 - Header/Responsivo          (X)
 - Main                       (X)
 - Main/Responsivo            (X)
 - Bike                       (X)
 - Bike/List                  (X)
+- Tecnologia                 (X)
+- Tecnologia/Responsivo      (X)
 
 
 Fique atento para futuras atualizações e melhorias!
