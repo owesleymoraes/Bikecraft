@@ -1,8 +1,9 @@
-@import "./style.css";
-@import "./utilidades/tipografia.css";
-@import "./utilidades/cores.css";
-@import "./header.css";
 @import "./main.css";
-@import "./bicicletas/bicicletas-listas.css";
-@import "./utilidades/componentes.css";
+@import "./style.css";
+@import "./header.css";
+@import "./parceiros.css";
 @import "./tecnologia.css";
+@import "./utilidades/cores.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/componentes.css";
+@import "./bicicletas/bicicletas-listas.css";
