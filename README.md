@@ -55,6 +55,18 @@ Nesta versão do projeto, foi criado o conteúdo da página referente à tecnolo
 ![Versão 1.0.5](image_progress/tecnologia.png)
 ![Versão 1.0.5](image_progress/tecnologia-mobile.png)
 
+### Versão Atual: 1.0.6
+Nesta versão do projeto, é mostrado os parceiros que ajudam a contribuir com a Bycraft.
+
+![Versão 1.0.6](image_progress/parceiros.png.png)
+![Versão 1.0.6](image_progress/parceiros-mobile.png.png)
+
+### Versão Atual: 1.0.7
+Nesta versão do projeto, é mostrado um depoimento de um cliente satisfeito.
+
+![Versão 1.0.7](image_progress/depoimentos.png)
+![Versão 1.0.7](image_progress/depoimento-mobile.png)
+
 
 ### Evolução do Projeto
 Estou constantemente evoluindo este projeto.
