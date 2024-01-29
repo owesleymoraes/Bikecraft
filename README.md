@@ -58,14 +58,20 @@ Nesta versão do projeto, foi criado o conteúdo da página referente à tecnolo
 ### Versão Atual: 1.0.6
 Nesta versão do projeto, é mostrado os parceiros que ajudam a contribuir com a Bycraft.
 
-![Versão 1.0.6](image_progress/parceiros.png.png)
-![Versão 1.0.6](image_progress/parceiros-mobile.png.png)
+![Versão 1.0.6](image_progress/parceiros.png)
+![Versão 1.0.6](image_progress/parceiros-mobile.png)
 
 ### Versão Atual: 1.0.7
 Nesta versão do projeto, é mostrado um depoimento de um cliente satisfeito.
 
 ![Versão 1.0.7](image_progress/depoimentos.png)
 ![Versão 1.0.7](image_progress/depoimento-mobile.png)
+
+### Versão Atual: 1.0.8
+Nesta versão do projeto, é mostrado a parte de seguros de corbetura do serviço do site.
+
+![Versão 1.0.8](image_progress/desktop-seguros.png)
+![Versão 1.0.8](image_progress/mobile-seguro.png)
 
 
 ### Evolução do Projeto
@@ -79,6 +85,8 @@ Estou constantemente evoluindo este projeto.
 - Bike/List                  (X)
 - Tecnologia                 (X)
 - Tecnologia/Responsivo      (X)
+- Seguros                    (X)
+- Seguros/Responsivo         (X)
 
 
 Fique atento para futuras atualizações e melhorias!
