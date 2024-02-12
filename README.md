@@ -73,8 +73,14 @@ Nesta versão do projeto, é mostrado a parte de seguros de corbetura do serviç
 ![Versão 1.0.8](image_progress/desktop-seguros.png)
 ![Versão 1.0.8](image_progress/mobile-seguro.png)
 
+### Versão Atual: 1.0.9
+Nesta versão do projeto, é mostrado a finalização da página com o acrescimo do footer da mesma.
 
-### Evolução do Projeto
+[Versão 1.0.9](image_progress/footer.png)
+![Versão 1.0.9](image_progress/footer-mobile.png)
+
+
+### Página Principal
 Estou constantemente evoluindo este projeto.
 
 - Header                     (X)
@@ -87,6 +93,26 @@ Estou constantemente evoluindo este projeto.
 - Tecnologia/Responsivo      (X)
 - Seguros                    (X)
 - Seguros/Responsivo         (X)
+- Footer                     (X)
+- Footer/Responsivo          (X)
+
+### Página Termos
+
+### Página Principal
+Estou constantemente evoluindo este projeto.
+
+- Header                     (X)
+- Header/Responsivo          (X)
+- Main                       (X)
+- Main/Responsivo            (X)
+- Footer                     (X)
+- Footer/Responsivo          (X)
+
+### Versão Atual: 2.0.0
+Este é uma página referente termos e condições de uso do produto assim como garantias e assistências.
+
+![Versão 2.0.0](image_progress/termos.png)
+![Versão 2.0.0](image_progress/termos-mobile.png)
 
 
 Fique atento para futuras atualizações e melhorias!
