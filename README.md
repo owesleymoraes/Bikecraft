@@ -96,6 +96,24 @@ Estou constantemente evoluindo este projeto.
 - Footer                     (X)
 - Footer/Responsivo          (X)
 
+### Página Termos
+
+### Página Principal
+Estou constantemente evoluindo este projeto.
+
+- Header                     (X)
+- Header/Responsivo          (X)
+- Main                       (X)
+- Main/Responsivo            (X)
+- Footer                     (X)
+- Footer/Responsivo          (X)
+
+### Versão Atual: 2.0.0
+Este é uma página referente termos e condições de uso do produto assim como garantias e assistências.
+
+![Versão 2.0.0](image_progress/termos.png)
+![Versão 2.0.0](image_progress/termos-mobile.png)
+
 
 Fique atento para futuras atualizações e melhorias!
 
