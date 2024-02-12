@@ -73,8 +73,14 @@ Nesta versão do projeto, é mostrado a parte de seguros de corbetura do serviç
 ![Versão 1.0.8](image_progress/desktop-seguros.png)
 ![Versão 1.0.8](image_progress/mobile-seguro.png)
 
+### Versão Atual: 1.0.9
+Nesta versão do projeto, é mostrado a finalização da página com o acrescimo do footer da mesma.
 
-### Evolução do Projeto
+[Versão 1.0.9](image_progress/footer.png)
+![Versão 1.0.9](image_progress/footer-mobile.png)
+
+
+### Página Principal
 Estou constantemente evoluindo este projeto.
 
 - Header                     (X)
@@ -87,6 +93,8 @@ Estou constantemente evoluindo este projeto.
 - Tecnologia/Responsivo      (X)
 - Seguros                    (X)
 - Seguros/Responsivo         (X)
+- Footer                     (X)
+- Footer/Responsivo          (X)
 
 
 Fique atento para futuras atualizações e melhorias!
