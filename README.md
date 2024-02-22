@@ -97,8 +97,6 @@ Estou constantemente evoluindo este projeto.
 - Footer/Responsivo          (X)
 
 ### Página Termos
-
-### Página Principal
 Estou constantemente evoluindo este projeto.
 
 - Header                     (X)
