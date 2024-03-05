@@ -23,6 +23,22 @@ Este projeto é focado principalmente em HTML e CSS, demonstrando minha habilida
 
 ## Progresso do Projeto
 
+### Página Principal
+Estou constantemente evoluindo este projeto.
+
+- Header                     (X)
+- Header/Responsivo          (X)
+- Main                       (X)
+- Main/Responsivo            (X)
+- Bike                       (X)
+- Bike/List                  (X)
+- Tecnologia                 (X)
+- Tecnologia/Responsivo      (X)
+- Seguros                    (X)
+- Seguros/Responsivo         (X)
+- Footer                     (X)
+- Footer/Responsivo          (X)
+
 ### Versão Atual: 1.0.0
 Nesta versão do projeto, estabeleci apenas o header da página.
 
@@ -80,21 +96,6 @@ Nesta versão do projeto, é mostrado a finalização da página com o acrescimo
 ![Versão 1.0.9](image_progress/footer-mobile.png)
 
 
-### Página Principal
-Estou constantemente evoluindo este projeto.
-
-- Header                     (X)
-- Header/Responsivo          (X)
-- Main                       (X)
-- Main/Responsivo            (X)
-- Bike                       (X)
-- Bike/List                  (X)
-- Tecnologia                 (X)
-- Tecnologia/Responsivo      (X)
-- Seguros                    (X)
-- Seguros/Responsivo         (X)
-- Footer                     (X)
-- Footer/Responsivo          (X)
 
 ### Página Termos
 Estou constantemente evoluindo este projeto.
@@ -111,6 +112,25 @@ Este é uma página referente termos e condições de uso do produto assim como 
 
 ![Versão 2.0.0](image_progress/termos.png)
 ![Versão 2.0.0](image_progress/termos-mobile.png)
+
+
+### Página Seguros e Pergutas Frequentes
+Estou constantemente evoluindo este projeto.
+
+- Header                     (X)
+- Header/Responsivo          (X)
+- Main                       (X)
+- Main/Responsivo            (X)
+- Footer                     (X)
+- Footer/Responsivo          (X)
+
+### Versão Atual: 3.0.0
+Este é uma página referente seguros ofertados e perguntas frequentes feitas pelo o usuário.
+
+![Versão 3.0.0](image_progress/seguros.png)
+![Versão 3.0.0](image_progress/seguros-mobile.png)
+![Versão 3.0.0](image_progress/perguntas.png)
+![Versão 3.0.0](image_progress/perguntas-mobile.png)
 
 
 Fique atento para futuras atualizações e melhorias!

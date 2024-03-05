@@ -8,6 +8,11 @@
   padding-top: 3.75rem;
   padding-bottom: 3.75rem;
   gap: 2.5rem;
+  align-items: center;
+}
+
+#seguros .seguros {
+  padding-top: 0px;
 }
 
 /* Faz com que o titulo alcance de uma ponta a outra */
@@ -20,6 +25,7 @@
   grid-template-columns: 1fr auto;
   background-color: var(--cor-12);
   padding: 2rem 2rem 2rem 3.75rem;
+  border-radius: 0.25rem;
 }
 
 .seguros-item h3 {
