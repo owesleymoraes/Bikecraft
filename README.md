@@ -132,6 +132,23 @@ Este é uma página referente seguros ofertados e perguntas frequentes feitas pe
 ![Versão 3.0.0](image_progress/perguntas.png)
 ![Versão 3.0.0](image_progress/perguntas-mobile.png)
 
+### Página de Contato
+Estou constantemente evoluindo este projeto.
+
+- Header                     (X)
+- Header/Responsivo          (X)
+- Main                       (X)
+- Main/Responsivo            (X)
+- Footer                     (X)
+- Footer/Responsivo          (X)
+
+### Versão Atual: 4.0.0
+Este é uma página referente aos contatos do site.
+
+![Versão 3.0.0](image_progress/contact.png)
+![Versão 3.0.0](image_progress/contact-mobile.png)
+
+
 
 Fique atento para futuras atualizações e melhorias!
 
