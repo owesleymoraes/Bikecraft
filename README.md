@@ -145,8 +145,10 @@ Estou constantemente evoluindo este projeto.
 ### Versão Atual: 4.0.0
 Este é uma página referente aos contatos do site.
 
-![Versão 3.0.0](image_progress/contact.png)
-![Versão 3.0.0](image_progress/contact-mobile.png)
+![Versão 4.0.0](image_progress/contact.png)
+![Versão 4.0.0](image_progress/contact-mobile.png)
+![Versão 4.0.0](image_progress/local-store.png)
+![Versão 4.0.0](image_progress/local-store-mobile.png)
 
 
 
