@@ -166,7 +166,8 @@ Este é uma página referente aos contatos do site.
 ![Versão 5.0.0](image_progress/orcamento.png)
 ![Versão 5.0.0](image_progress/orcamento-mobile.png)
 
-Fique atento para futuras atualizações e melhorias!
+## Projeto finalizado.
+
 
 ## Contato
 Se você quiser saber mais sobre este projeto ou trocar ideias sobre desenvolvimento web, entre em contato comigo em [https://www.linkedin.com/in/owesleymoraes/](Linkedin).
